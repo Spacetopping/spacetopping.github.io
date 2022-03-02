@@ -3,8 +3,8 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 2.15.1</title>
-            <description>desc</description>
+            <title>Version 1.2.0</title>
+            <description>서버 이전, 타임라인 오류 제거</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.spacetopping.spacetoppingapp" sparkle:version="1.0.18" sparkle:os="android" />
         </item>
