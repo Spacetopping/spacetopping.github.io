@@ -6,7 +6,7 @@
             <title>Version 1.2.0</title>
             <description>서버 이전, 타임라인 오류 제거</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.spacetopping.spacetoppingapp" sparkle:version="1.2.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.spacetopping.spacetoppingapp" sparkle:version="1.2.1" sparkle:os="android" />
         </item>
     </channel>
 </rss>
